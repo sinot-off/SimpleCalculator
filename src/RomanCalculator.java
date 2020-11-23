@@ -1,5 +1,5 @@
 /**
- * класс является расширением класса
+ * класс является расширением класса арифметики для арабских чисел
  */
 public class RomanCalculator extends ArabicCalculator {
     public RomanCalculator(String[] exprArr) {
